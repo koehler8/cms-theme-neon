@@ -1,0 +1,27 @@
+{
+  "name": "@koehler8/cms-theme-neon",
+  "version": "1.0.1",
+  "description": "Neon Gradient theme for @koehler8/cms — ultra-vibrant neon pink/cyan/purple palette",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./config": "./theme.config.js"
+  },
+  "files": [
+    "index.js",
+    "theme.config.js",
+    "theme.css",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "@koehler8/cms": "^1.0.0-beta.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koehler8/cms-theme-neon.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
