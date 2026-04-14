@@ -1,7 +1,7 @@
 {
   "name": "@koehler8/cms-theme-neon",
   "version": "1.0.1",
-  "description": "Neon Gradient theme for @koehler8/cms — ultra-vibrant neon pink/cyan/purple palette",
+  "description": "Neon Gradient theme for Vertex CMS — ultra-vibrant neon pink/cyan/purple palette",
   "author": "koehler8",
   "license": "MIT",
   "keywords": ["cms", "theme", "koehler8", "neon", "dark-theme"],
