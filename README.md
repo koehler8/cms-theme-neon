@@ -1,7 +1,7 @@
 # @koehler8/cms-theme-neon — Neon Gradient
 
 - **Slug**: `neon`
-- **Version**: 1.0.0
+- **Version**: 1.0.1
 - **Author**: koehler8
 
 ## Install
@@ -34,3 +34,11 @@ Set `site.theme` to `"neon"` in your site config. The CSS rewrites WalletConnect
 ## Compatibility Notes
 - Motion-heavy: shimmer/glow animations are enabled when users allow motion; ensure brand approvals for animated CTAs.
 - Theme CSS touches legacy sections (legal cards, sticky CTAs, status metrics, curiosity teasers). Keep any additional overrides inside this folder so other themes remain unaffected.
+
+## Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+
+## License
+
+[MIT](./LICENSE)
